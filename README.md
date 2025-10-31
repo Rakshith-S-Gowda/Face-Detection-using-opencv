@@ -95,8 +95,9 @@ detect faces in real time.\
 Each detected face is highlighted with a **green rectangle** as shown
 below 👇
 
-**🧾 Screenshot of Detection:** ![Output Example - Face
-Detection](Face%20Detection.jpg)
+**🧾 Screenshot of Detection:** 
+
+![Face Detection ](https://github.com/user-attachments/assets/2f365f3c-d139-4c2a-9a2e-d27474e154cc)
 
 ------------------------------------------------------------------------
 
